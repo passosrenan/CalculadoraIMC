@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IMC Calculadora</string>
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="valida_altura">Informe a altura:</string>
+    <string name="valida_peso">Informe o peso:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="tvClassifica">O resultado do seu IMC é</string>
+    <string name="obesidade">Obesidade</string>
+    <string name="saudavel">Saudável</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="abaixo">Abaixo do peso</string>
+    <string name="resultado">resultado %1$.2f</string>
+    <string-array name="array_genero">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+
+
+</resources>
